@@ -1,0 +1,30 @@
+{
+  "name": "schiffe-versenken",
+  "version": "1.0.0",
+  "description": "WEB Projekt für HS Mannheim WS 2017/18",
+  "main": "spiel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarPra/Die-Flei-igen-Faulen.git"
+  },
+  "author": "Marco Präg, Felix Künnecke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarPra/Die-Flei-igen-Faulen/issues"
+  },
+  "homepage": "https://github.com/MarPra/Die-Flei-igen-Faulen#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
